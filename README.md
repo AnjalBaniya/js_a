@@ -1,2 +1,2 @@
 # js_a
-A code repo for JavaScript practice 
+A code repo for JavaScript practice (today)
